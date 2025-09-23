@@ -1,0 +1,68 @@
+{
+  "term": "Spring",
+  "year": "2014",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Science",
+      "Biology",
+      "Molecular Biology"
+    ],
+    [
+      "Health and Medicine",
+      "Functional Genomics"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Cell Biology"
+    ],
+    [
+      "Science",
+      "Biology",
+      "Genetics"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Biotechnology"
+    ],
+    [
+      "Engineering",
+      "Biological Engineering",
+      "Computational Biology"
+    ]
+  ],
+  "legacy_uid": "3bb9ce36-cb3b-846a-89de-13cacfbe698a",
+  "instructors": {
+    "content": [
+      "2228df3b-629c-0994-a9a9-505793a07653"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "c1706bb3-70c6-72d2-057a-bae5d59868a7",
+    "website": "7-342-personal-genomics-and-medicine-whats-in-your-genome-spring-2014"
+  },
+  "course_title": "Personal Genomics and Medicine: What's in Your Genome?",
+  "course_description": "Human genome sequencing has revolutionized our understanding of disease susceptibility, drug metabolism and human ancestry. This course will explore how these advances have been made possible by revolutionary new sequencing methodologies that have decreased costs and increased throughput of genome analysis, making it possible to examine genetic correlates for a variety of biological processes and disorders. The course will combine discussions of primary scientific research papers with hands-on data analysis and small group presentations.\n\nThis course is one of many {{% resource_link \"6921ade2-7acb-422c-ba94-ebb35477c38b\" \"Advanced Undergraduate Seminars\" %}} offered by the Biology Department at MIT. These seminars are tailored for students with an interest in using primary research literature to discuss and learn about current biological research in a highly interactive setting. Many instructors of the Advanced Undergraduate Seminars are postdoctoral scientists with a strong interest in teaching.\n",
+  "department_numbers": [
+    "7"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "7.342",
+  "course_image_thumbnail": {
+    "content": "bcd69a86-8e30-51bf-3083-88856d8bc365",
+    "website": "7-342-personal-genomics-and-medicine-whats-in-your-genome-spring-2014"
+  },
+  "learning_resource_types": [
+    "Presentation Assignments",
+    "Written Assignments"
+  ],
+  "site_uid": "2ca23666-3b45-456f-b363-1ccab5e9b945",
+  "site_short_id": "7.342-spring-2014",
+  "site_url_path": "courses/7-342-personal-genomics-and-medicine-whats-in-your-genome-spring-2014",
+  "title": "Course Metadata"
+}
