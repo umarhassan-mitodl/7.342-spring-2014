@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides information on the written assignment and oral
   presentation required for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -17,7 +19,7 @@ Identify a research article that links a genetic alteration with a discrete phen
 Oral Presentation (Due in the Final Class)
 ------------------------------------------
 
-Select a single-nucleotide polymorphism either from one of the provided reference samples in the {{% resource_link "5817d9c4-97a9-49ac-9150-37eff0e18864" "23andMe" %}} dataset or from your own genetic analysis. Compare the provided genetic information from the company regarding how closely the single-nucleotide polymorphisms are linked with a particular condition or trait with what you are able to learn from a paper in the primary literature. Consider whether there are other single-nucleotide polymorphisms or environmental factors that should be evaluated when estimating risk of developing this trait or condition in addition to the ones mentioned by 23andMe. Prepare a 15-minute presentation using PowerPoint or a similar program to evaluate how these two sources of information compare. The topic and paper should be discussed with the instructor at least two weeks prior to the due date.
+Select a single-nucleotide polymorphism either from one of the provided reference samples in the [23andMe](https://www.23andme.com/) dataset or from your own genetic analysis. Compare the provided genetic information from the company regarding how closely the single-nucleotide polymorphisms are linked with a particular condition or trait with what you are able to learn from a paper in the primary literature. Consider whether there are other single-nucleotide polymorphisms or environmental factors that should be evaluated when estimating risk of developing this trait or condition in addition to the ones mentioned by 23andMe. Prepare a 15-minute presentation using PowerPoint or a similar program to evaluate how these two sources of information compare. The topic and paper should be discussed with the instructor at least two weeks prior to the due date.
 
 There are several goals for this assignment:
 

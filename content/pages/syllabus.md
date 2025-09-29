@@ -3,6 +3,8 @@ content_type: page
 description: This syllabus section provides the course description and information
   on meeting times, prerequisites, format, objectives, grading, an optional exercise,
   and the schedule of lecture topics and key dates for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -34,7 +36,7 @@ Human genome sequencing has revolutionized our understanding of disease suscepti
 
 We will discuss how an individual's risk of developing a disease can be assessed based on small genetic changes in nucleotide sequence as well as on larger structural variations that affect entire regions of a chromosome. We will also discuss how maternal ancestry, paternal lineage, and human populations can be analyzed by examining chromosomal or mitochondrial DNA. We will read papers from the scientific literature to understand how genetic analysis is influencing treatment for patients who have cancers with specific mutations that can be targeted with tyrosine kinase inhibitors, such as individuals with chronic myelogenous leukemia who have the BCR-ABL gene fusion.
 
-Genomic analysis has also spurred the development of new drugs that might be helpful for patients in the general population, such as PCSK9 inhibitors for patients with hypercholesterolemia, an approach that was driven by the observation that people with a mutation in this gene have abnormally low LDL cholesterol. We will also debate social, legal and ethical aspects of genetic testing. The course will combine discussions of primary scientific research papers with hands-on data analysis and small group presentations. We will take a field trip to the Harvard Medical School {{% resource_link "ef5a3dc8-9258-47f6-b52b-0eaf05cf4a6f" "Center for Personalized Genetic Medicine" %}} to learn how genomic sequencing informs clinical decision making.
+Genomic analysis has also spurred the development of new drugs that might be helpful for patients in the general population, such as PCSK9 inhibitors for patients with hypercholesterolemia, an approach that was driven by the observation that people with a mutation in this gene have abnormally low LDL cholesterol. We will also debate social, legal and ethical aspects of genetic testing. The course will combine discussions of primary scientific research papers with hands-on data analysis and small group presentations. We will take a field trip to the Harvard Medical School [Center for Personalized Genetic Medicine](http://pcpgm.partners.org/) to learn how genomic sequencing informs clinical decision making.
 
 Format
 ------
@@ -60,7 +62,7 @@ Optional Exercise
 
 This course has an optional genotyping exercise. This genetic analysis will be done after we cover the first several topics of background material, so that students are better informed about genetic testing before deciding whether to participate. The purpose of this exercise is to enhance the learning experience of students and teach important concepts of clinical genomic testing, such as the validity and utility of single nucleotide polymorphism testing. Students can select a gene identified from this exercise as the basis of a topic for their presentations, or they can select any other gene of interest, e.g., identified from one of the reference genomes or from papers in the literature.
 
-This optional genetic testing will be provided by an outside company, {{% resource_link "5817d9c4-97a9-49ac-9150-37eff0e18864" "23andMe" %}}, and we are not endorsing their methodology or services. The anticipated cost will be $99 and it may be possible to negotiate a further discount depending on the number of students who enroll. This exercise is completely optional, and students who do not want to have their genome sequencing performed can use publically available data for all of the assignments. All genetic information is private, and students will not be asked to share this information with other members of the class. Other individuals in the class will not know whether you are participating in the genotyping exercise or what the results are unless you choose to tell them. Students are encouraged to contact genetic counselors if additional support and advice regarding testing results is needed. This exercise is completely optional and confidential.
+This optional genetic testing will be provided by an outside company, [23andMe](https://www.23andme.com/), and we are not endorsing their methodology or services. The anticipated cost will be $99 and it may be possible to negotiate a further discount depending on the number of students who enroll. This exercise is completely optional, and students who do not want to have their genome sequencing performed can use publically available data for all of the assignments. All genetic information is private, and students will not be asked to share this information with other members of the class. Other individuals in the class will not know whether you are participating in the genotyping exercise or what the results are unless you choose to tell them. Students are encouraged to contact genetic counselors if additional support and advice regarding testing results is needed. This exercise is completely optional and confidential.
 
 Calendar
 --------
@@ -170,7 +172,7 @@ Genome wide association studies
 8
 {{< tdclose >}}
 {{< tdopen >}}
-Field trip to the {{% resource_link "c4c6853d-b40b-4fb1-b9d3-1eeaf73de00b" "Harvard Medical School Center for Personalized Genetic Medicine" %}}
+Field trip to the [Harvard Medical School Center for Personalized Genetic Medicine](http://personalizedmedicine.partners.org/)
 {{< tdclose >}}
 {{< tdopen >}}
  
