@@ -1,8 +1,6 @@
 ---
 content_type: page
 description: This section provides summaries of each lecture session of the course.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
@@ -118,7 +116,7 @@ Genome wide association studies
 Field trip
 {{< tdclose >}}
 {{< tdopen >}}
-{{< anchor "Field_trip" >}}{{< /anchor >}}We will learn about the gene panels run using next generation sequencing at the [Harvard Medical School Center for Personalized Genetic Medicine](http://personalizedmedicine.partners.org/) and discuss the challenges faced by clinicians who are interpreting these studies. We will take a field trip to see next generation sequencing machines and how this technology is being applied in research and clinical diagnostics.
+{{< anchor "Field_trip" >}}{{< /anchor >}}We will learn about the gene panels run using next generation sequencing at the {{% resource_link "ff885c38-ff40-4527-bae3-154b6b5b92da" "Harvard Medical School Center for Personalized Genetic Medicine" %}} and discuss the challenges faced by clinicians who are interpreting these studies. We will take a field trip to see next generation sequencing machines and how this technology is being applied in research and clinical diagnostics.
 {{< tdclose >}}
 
 {{< trclose >}}
